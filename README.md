@@ -1,8 +1,8 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 ```
- Name: GAUTHAM KRISHNA S
- Register No: 212223240036
+ Name: SURJITH D
+ Register No: 212223043006
 ```
 
 # AIM:
